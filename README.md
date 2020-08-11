@@ -47,10 +47,10 @@ To extract
 
 1. **Open PDF**
 2. Navigate to the page with the table you want to extract using either the **Page** textbox or the **« »** buttons
-3. Click and drag the area of the table
+3. Click and drag to mark the area of the table
 4. **Add Area** to the Marked Areas list box
 5. To delete any selected area from the Marked Areas list box, select the area and click the **Delete Selected Area** button
-6. Repeat steps 3 and 4 as required
+6. Repeat steps 3 to 5 as required
 7. **Extract Tables!**
 
 ## Framework
