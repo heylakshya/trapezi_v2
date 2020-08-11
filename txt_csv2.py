@@ -1,7 +1,6 @@
 import csv
 import re
 from copy import deepcopy
-import numpy as np
 import math
 
 def resetRow(rowify, maxCols):
