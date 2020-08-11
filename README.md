@@ -6,8 +6,6 @@ A small GUI based utility tool that enables users to extracts tables from text-b
 
 Anyone who has ever had to deal with tables from a PDF files knows the pain of manual data entry of values. Be it students or researchers trying to compare propertities of various materials from a stack of research papers, converting tabular data to csv can provide many advantages from the spreadsheet world like **search, compare, apply transformations** etc. This can really speed up the workflow of users.
 
----
-
 ## Screenshots
 
 ![Logo](<images/logo.png>)
@@ -39,11 +37,11 @@ Anyone who has ever had to deal with tables from a PDF files knows the pain of m
 To run the wxpython application
 
 1. Install the dependencies
-2. un the following command in the main.py directory
+2. Run the following command in the main.py directory
 
-'''bash
+```bash
     $ pythonw main.py
-'''
+```
 
 To extract
 
