@@ -1,10 +1,13 @@
-# Trapezi
+# Trapézi
 
 A small GUI based utility tool that enables users to extracts tables from text-based PDFs into CSV files.
 
 ## Motivation
 
 Anyone who has ever had to deal with tables from a PDF files knows the pain of manual data entry of values. Be it students or researchers trying to compare propertities of various materials from a stack of research papers, converting tabular data to csv can provide many advantages from the spreadsheet world like **search, compare, apply transformations** etc. This can really speed up the workflow of users.
+
+**What's with the name?**
+trapézi is greek for 'table'
 
 ## Screenshots
 
