@@ -17,15 +17,15 @@ trapézi is greek for 'table'
 
 ### The application window
 
-![empty application window](<images/empty.png>)
+<img src="images/empty.png" width="50%" height="50%" title="empty application window">
 
 ### Loaded PDF with second selection being made
 
-![selection of second area](<images/selection.png>)
+<img src="images/selection.png" width="50%" height="50%" title="selection of second area">
 
 ### Appropriately named folder with extracted CSV files
 
-![empty application window](<images/csvfiles.png>)
+<img src="images/csvfile.png" width="50%" height="50%" title="empty application window">
 
 ### The original PDF
 
