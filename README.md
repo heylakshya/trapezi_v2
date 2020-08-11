@@ -25,7 +25,7 @@ trapézi is greek for 'table'
 
 ### Appropriately named folder with extracted CSV files
 
-<img src="images/csvfile.png" width="50%" height="50%" title="empty application window">
+<img src="images/csvfiles.png" width="50%" height="50%" title="empty application window">
 
 ### The original PDF
 
