@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="images/logo.png" width="20%" height="20%" title="Trapezi Logo">
-</p>
-
 # Trapézi
 
 A small GUI based utility tool that enables users to extracts tables from text-based PDFs into CSV files.
